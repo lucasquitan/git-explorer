@@ -4,7 +4,9 @@ export const lightTheme = {
   button: '#04d361',
   textButton: '#fff',
   repositoryTitle: '#3d3d4d',
+  repositoryDescription: '#737380',
   error: '#c53030',
+  links: '#a8a8b3',
 };
 
 export const darkTheme = {
